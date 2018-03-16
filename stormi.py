@@ -50,18 +50,6 @@ def shap_pic ():
     window.exitonclick()
 
 
-'''def art (trianglen):
-    trianglen = turtle.Turtle ()
-    trianglen.forward(150)
-    trianglen.right (45)
-    trianglen.backward(200)
-    trianglen.right (45)
-    trianglen.forward(150)
-    trianglen.right (45)'''
-
-
-    
-
 shap_pic ()
 
         
